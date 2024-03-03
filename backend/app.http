@@ -1,0 +1,12 @@
+###
+
+GET http://localhost:3000/
+
+###
+
+GET http://localhost:3000/api/search/?name=Aarav
+
+###
+
+GET http://localhost:3000/api/sort/?sortBy=time
+
